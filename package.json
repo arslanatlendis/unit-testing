@@ -1,0 +1,22 @@
+{
+  "name": "unit-testing",
+  "version": "1.0.0",
+  "description": "Unit Testing with Jest Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arslanatlendis/unit-testing.git"
+  },
+  "author": "Muhammad Arslan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arslanatlendis/unit-testing/issues"
+  },
+  "homepage": "https://github.com/arslanatlendis/unit-testing#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
